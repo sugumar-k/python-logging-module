@@ -1,0 +1,5 @@
+root|DEBUG |this is a debug message|23-03-22 14-04-51
+root|INFO |this is a information message|23-03-22 14-04-51
+root|WARNING |this is a warning message|23-03-22 14-04-51
+root|ERROR |this is a indication of error|23-03-22 14-04-51
+root|CRITICAL |something critical happened|23-03-22 14-04-51
